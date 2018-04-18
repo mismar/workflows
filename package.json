@@ -6,5 +6,8 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Moe Mismar"
+  "author": "Moe Mismar",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
