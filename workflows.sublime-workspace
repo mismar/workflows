@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"page",
+				"page-break-inside\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"photolig",
+				"photo_lighting_print.jpg\tw:200 h:108"
+			],
+			[
+				"seat",
+				"photo_seating_print.jpg\tw:200 h:108"
+			],
+			[
+				"lou",
+				"photo_lounge_print.jpg\tw:400 h:185"
+			],
+			[
+				"ic",
+				"icon_marker_print.svg"
+			],
+			[
+				"star",
+				"icon_star_print.svg"
+			],
+			[
+				"word",
+				"word-wrap\tproperty"
+			],
+			[
+				"logo",
+				"logo_print.svg"
+			],
+			[
+				"banner",
+				"banner_1300_print.jpg\tw:1300 h:225"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"bann",
+				"banner_625.jpg\tw:640 h:160"
+			],
+			[
+				"clip",
+				"clip-path\tproperty"
+			],
+			[
+				"ariaop",
+				"aria-haspopup\tProperty"
+			],
+			[
+				"bacground",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"photo_",
+				"photo_lounge.jpg\tw:475 h:220"
+			],
+			[
+				"icon_",
+				"icon_gear.svg"
+			],
+			[
+				"icon",
+				"icon_marker.svg"
+			],
+			[
+				"backg",
+				"background-size\tproperty"
+			],
+			[
+				"images",
+				"images/logo.svg"
+			],
+			[
+				"c",
+				"codifydesign"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"section",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"sub",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"subsec",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"full c",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"subcomment",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"comment full",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"comment sub",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"subsection",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"comm-section",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hyper",
+				"Hyperlink Helper: Wrap Word / Selection as Link"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Preferences"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Mismar/Desktop/workflows"
+	],
+	"file_history":
+	[
+		"/Users/Mismar/Desktop/project/about.html",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/Comment-Snippets/README.md",
+		"/Users/Mismar/Desktop/project/index.html",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/CSScomb/README.md",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/HTMLBeautify/README.md",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/WAI-ARIA/readme.md",
+		"/Users/Mismar/Desktop/css-resume-2/css/styles.css",
+		"/Users/Mismar/Desktop/css-resume-2/index.html",
+		"/Users/Mismar/Desktop/css-resume/css-resume.sublime-project",
+		"/Users/Mismar/Desktop/css-resume/css/styles.css",
+		"/Users/Mismar/Desktop/css-resume/index.html",
+		"/Users/Mismar/Desktop/css-resume/untitled.sublime-project",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/Emmet/README.md",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Mismar/Desktop/Ex_Files_SublimeText3_Basics/roux_website/example.htm",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Mismar/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Mismar/Desktop/Ex_Files_SublimeText3_Basics/roux_website/roux_website.sublime-project"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 142.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "workflows.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			],
+			[
+				"s",
+				"css/screen.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"print",
+				"css/print.css"
+			],
+			[
+				"sce",
+				"css/screen.css"
+			],
+			[
+				"styles",
+				"css/styles.css"
+			],
+			[
+				"css",
+				"css/styles.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"index",
+				"index.htm"
+			],
+			[
+				"main",
+				"_css/main.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
